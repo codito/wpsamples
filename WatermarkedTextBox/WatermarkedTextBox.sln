@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Phone Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatermarkedTextBox", "WaterMarkedTextbox\WatermarkedTextBox.csproj", "{A3285F25-6B5A-406C-9F1A-B223EE5B04D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatermarkedTextBox.Test", "WatermarkedTextBox.Test\WatermarkedTextBox.Test.csproj", "{4D05AA9D-5871-42BD-9580-9ACC48A69F57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3285F25-6B5A-406C-9F1A-B223EE5B04D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3285F25-6B5A-406C-9F1A-B223EE5B04D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3285F25-6B5A-406C-9F1A-B223EE5B04D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3285F25-6B5A-406C-9F1A-B223EE5B04D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D05AA9D-5871-42BD-9580-9ACC48A69F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D05AA9D-5871-42BD-9580-9ACC48A69F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D05AA9D-5871-42BD-9580-9ACC48A69F57}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4D05AA9D-5871-42BD-9580-9ACC48A69F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D05AA9D-5871-42BD-9580-9ACC48A69F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D05AA9D-5871-42BD-9580-9ACC48A69F57}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

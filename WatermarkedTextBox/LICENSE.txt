@@ -1,0 +1,2 @@
+All code in in this solution is licensed under
+[MSPL](http://www.opensource.org/licenses/ms-pl.html).
